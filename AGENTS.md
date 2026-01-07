@@ -1,0 +1,1 @@
+CLSU-Omni (Campus Logistics SaaS) Tech Stack: FlutterFlow (Frontend), Supabase (Backend/PostgreSQL/PostGIS), Geoapify (Mapping). Logic Patterns: Use A* algorithm for campus pathfinding. All payments must route through the Landbank LinkBiz API. Security: Strictly follow the Philippine Data Privacy Act (DPA).
